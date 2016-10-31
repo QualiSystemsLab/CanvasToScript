@@ -1,6 +1,6 @@
 *.suo
 *.bak
-obj/*
+src/obj/*
 bin/Debug/*
 bin/Release/CanvasToScript.pdb
 bin/Release/CanvasToScript.vshost.exe
