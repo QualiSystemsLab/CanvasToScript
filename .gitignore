@@ -1,0 +1,8 @@
+*.suo
+*.bak
+obj/*
+bin/Debug/*
+bin/Release/CanvasToScript.pdb
+bin/Release/CanvasToScript.vshost.exe
+bin/Release/CanvasToScript.vshost.exe.config
+bin/Release/CanvasToScript.vshost.exe.manifest
